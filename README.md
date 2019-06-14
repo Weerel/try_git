@@ -16,5 +16,7 @@ It will generate `requirements.txt` with actual versions.
 
 ### Install requirements
 After puling updates with new dependencies execute command:
-`pip install -r requirements.txt`
+```console
+pip install -r requirements.txt
+```
 It will update all dependencies
