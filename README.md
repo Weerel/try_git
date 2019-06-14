@@ -9,7 +9,7 @@ https://github.com/jazzband/pip-tools
 ### Update requirements
 File `requirements.in` contanes project dependencies. Add here new dependencies.
 Then execute command:
-```bash
+```console
 pip-compile requirements.in
 ```
 It will generate `requirements.txt` with actual versions.
